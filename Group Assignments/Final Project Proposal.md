@@ -15,7 +15,7 @@ Our research will inform the work of California’s Green New Deal (CA GND) Coal
 
 A fundamental goal of the California Green New Deal (CA GND) Coalition is to create good quality green jobs for low-income communities of color in California. Yet, a transition to green jobs inevitably means a loss of fossil fuel jobs—jobs that often employ people from and are located in disadvantaged communities. Our project aims to support the CA GNC Coalition with comparative, spatialized insight into the workforce realities of two twinned processes: a transition to clean energy and away from fossil fuel. To ensure an equitable, just transition, we must understand the extent to which green jobs are more or less geographically accessible to disadvantaged communities.
 
-## Spatial Scope: Why space and time matter to our project
+## Spatial Scope: Why do space and time matter to our project?
 
 Our project aims to map “dirty” and green energy jobs across the state of California, since this will be the most useful spatial scope to inform the California Green New Deal Coalition in its work to advance a zero-carbon economy across the state. We will be flexible and redefine the parameters of our spatial scope depending on the availability of data, but a state-wide map will be the most useful to inform CA GND Coalition policy proposals. 
 
