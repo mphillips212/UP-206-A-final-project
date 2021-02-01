@@ -5,29 +5,29 @@
 #### Title: Data co-wrangler / writing muscle
 #### Role: Renewable energy data
 #### Contribution:
-    * Will help write up assignments as needed
-    * Work with and develop visualizations for all renewable energy related data sets
-    * Will meet with TAs/Yoh as needed to resolve problems with Python coding
-    * Project management / organizing meetings / ensuring team meets deadlines
+  * Will help write up assignments as needed
+  * Work with and develop visualizations for all renewable energy related data sets
+  * Will meet with TAs/Yoh as needed to resolve problems with Python coding
+  * Project management / organizing meetings / ensuring team meets deadlines
 
 ### Matt
 #### Title: Data finder / demographics mapper
 #### Role: Demographic data
 #### Contribution:
-    * Find relevant datasets for our research questions
-    * Map and visualize demographic data, including race/ethnicity, income, and wages
-    * Help write up assignments
-    * Manage group repo
+  * Find relevant datasets for our research questions
+  * Map and visualize demographic data, including race/ethnicity, income, and wages
+  * Help write up assignments
+  * Manage group repo
 
 ### Rachel
 #### Title: Data wrangler / project management support 
 #### Role: Fossil fuel data set
 #### Contribution: 
-    * Work with and develop relevant visualizations for all fossil fuel related data sets
-    * Support document development related to group assignments
-    * Support project management for group assignments 
-    * Co-create and collaborate on research questions 
-    * Support python/dataset troubleshooting 
+  * Work with and develop relevant visualizations for all fossil fuel related data sets
+  * Support document development related to group assignments
+  * Support project management for group assignments 
+  * Co-create and collaborate on research questions 
+  * Support python/dataset troubleshooting 
     
 ## **Status update**
 
