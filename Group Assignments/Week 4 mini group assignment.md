@@ -52,3 +52,4 @@ Data from [“The future of United States fossil fuel-fired electricity”](http
     
 #### Minor Concerns:
     * Data cleaning: While we have found some datasets related to our research question, they require significant cleaning to make them usable for our purposes. Data cleaning has been challenging thus far and sometimes involves techniques we have yet to learn in class. 
+ 
