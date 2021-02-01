@@ -47,9 +47,9 @@ Data from [“The future of United States fossil fuel-fired electricity”](http
 ## **Concerns**
 
 #### Major Concerns
-    * Conducting deeper analysis beyond descriptive research: Our Week 3 Assignment focused on visualizing where clean energy and fossil fuel jobs are located in California. Our challenge moving forward will be to shift our research question to produce deeper insights.
-    * Need for additional, relevant datasets: We have shifted our research question to investigate how many clean energy jobs will be needed to replace fossil fuel jobs. We’ll need additional information beyond the datasets we’ve already found to answer: 1) how many jobs per megawatt produced per county at fossil fuel plants, 2) how many renewable energy jobs will be needed to produce the same amount of energy. 
+   * Conducting deeper analysis beyond descriptive research: Our Week 3 Assignment focused on visualizing where clean energy and fossil fuel jobs are located in California. Our challenge moving forward will be to shift our research question to produce deeper insights.
+   * Need for additional, relevant datasets: We have shifted our research question to investigate how many clean energy jobs will be needed to replace fossil fuel jobs. We’ll need additional information beyond the datasets we’ve already found to answer: 1) how many jobs per megawatt produced per county at fossil fuel plants, 2) how many renewable energy jobs will be needed to produce the same amount of energy. 
     
 #### Minor Concerns:
-    * Data cleaning: While we have found some datasets related to our research question, they require significant cleaning to make them usable for our purposes. Data cleaning has been challenging thus far and sometimes involves techniques we have yet to learn in class. 
+   * Data cleaning: While we have found some datasets related to our research question, they require significant cleaning to make them usable for our purposes. Data cleaning has been challenging thus far and sometimes involves techniques we have yet to learn in class. 
  
