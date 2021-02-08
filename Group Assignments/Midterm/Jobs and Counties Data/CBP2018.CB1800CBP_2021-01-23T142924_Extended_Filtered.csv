@@ -1,0 +1,45 @@
+GEO_ID,NAME,NAICS2017,NAICS2017_LABEL,NAICS2017_F,LFO,LFO_LABEL,EMPSZES,EMPSZES_LABEL,YEAR,ESTAB,PAYANN,PAYANN_N,PAYQTR1,PAYQTR1_N,EMP,EMP_N
+0500000US06013,"Contra Costa County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,8,2774,H,397,G,34,J
+0500000US06013,"Contra Costa County, California",32411,Petroleum refineries,null,1,All establishments,1,All establishments,2018,5,434252,G,116506,G,3357,G
+0500000US06013,"Contra Costa County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,6,10176,H,2969,H,91,J
+0500000US06019,"Fresno County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,3,3472,H,997,H,34,J
+0500000US06029,"Kern County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,49,324217,H,108511,H,2246,H
+0500000US06029,"Kern County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,5,10905,J,3034,J,106,J
+0500000US06029,"Kern County, California",32411,Petroleum refineries,null,1,All establishments,1,All establishments,2018,3,29424,G,8037,H,295,G
+0500000US06029,"Kern County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,13,41153,H,13814,H,392,H
+0500000US06037,"Los Angeles County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,39,235735,J,65894,J,1446,J
+0500000US06037,"Los Angeles County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,61,507130,J,177315,J,5074,J
+0500000US06037,"Los Angeles County, California",32411,Petroleum refineries,null,1,All establishments,1,All establishments,2018,8,606915,H,196982,H,4425,H
+0500000US06037,"Los Angeles County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,19,52243,H,16882,H,436,H
+0500000US06053,"Monterey County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,3,4293,J,1500,J,37,H
+0500000US06059,"Orange County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,12,6646,G,1856,G,64,G
+0500000US06059,"Orange County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,15,67195,J,20409,J,766,J
+0500000US06059,"Orange County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,3,18072,J,6913,J,141,J
+0500000US06065,"Riverside County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,17,41492,J,12022,J,427,J
+0500000US06065,"Riverside County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,3,869,H,248,H,7,G
+0500000US06067,"Sacramento County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,4,2928,H,840,G,34,H
+0500000US06067,"Sacramento County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,3,1991,J,566,J,17,J
+0500000US06071,"San Bernardino County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,15,82700,H,25006,J,1026,J
+0500000US06071,"San Bernardino County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,7,6574,J,1940,J,59,J
+0500000US06073,"San Diego County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,5,1976,J,365,J,14,G
+0500000US06073,"San Diego County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,40,212673,J,77185,J,1873,J
+0500000US06077,"San Joaquin County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,5,2639,J,868,J,18,J
+0500000US06079,"San Luis Obispo County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,3,7415,J,2125,J,85,J
+0500000US06083,"Santa Barbara County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,15,23308,G,7066,H,193,G
+0500000US06083,"Santa Barbara County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,7,12608,J,3772,J,136,J
+0500000US06083,"Santa Barbara County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,3,1942,J,598,J,16,J
+0500000US06095,"Solano County, California",486,Pipeline transportation,null,1,All establishments,1,All establishments,2018,3,3915,G,1541,H,26,H
+0500000US06107,"Tulare County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,5,10363,J,3034,J,119,J
+0500000US06111,"Ventura County, California",2111,Oil and gas extraction,null,1,All establishments,1,All establishments,2018,9,27434,J,6578,J,284,J
+0500000US06111,"Ventura County, California",2212,Natural gas distribution,null,1,All establishments,1,All establishments,2018,5,15631,J,4489,J,172,J
+0500000US06001,"Alameda County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,4,20597,J,12362,J,71,J
+0500000US06013,"Contra Costa County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,6,18279,J,6360,J,107,J
+0500000US06019,"Fresno County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,3,2557,J,1198,J,22,J
+0500000US06029,"Kern County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,4,12461,J,5084,J,143,J
+0500000US06037,"Los Angeles County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,14,48523,G,16788,H,329,G
+0500000US06059,"Orange County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,4,4453,J,1350,J,41,J
+0500000US06067,"Sacramento County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,7,8891,H,3011,H,74,J
+0500000US06071,"San Bernardino County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,4,10007,H,2814,H,66,J
+0500000US06073,"San Diego County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,24,82342,H,43178,H,492,J
+0500000US06085,"Santa Clara County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,5,11052,J,4278,J,70,J
+0500000US06101,"Sutter County, California",221112,Fossil fuel electric power generation,null,1,All establishments,1,All establishments,2018,4,1935,J,645,J,13,J
